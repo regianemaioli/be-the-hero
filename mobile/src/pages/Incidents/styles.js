@@ -48,7 +48,7 @@ export default StyleSheet.create({
         marginBottom: 16,
     },
 
-    incidentPropert: {
+    incidentProperty: {
         fontSize: 14,
         color: '#41414d',
         fontWeight: 'bold',
